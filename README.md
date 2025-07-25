@@ -4,7 +4,7 @@ Automação de testes para a API REST do projeto [`banco-api`](https://github.co
 
 ## Objetivo
 
-Realiza testes automatizados para Validar o comportamento e a integridade da API REST de um sistema bancário simulado, contribuindo que as funcionalidades estejam de acordo com os requisitos definidos.
+Realiza testes automatizados para validar o comportamento e a integridade da API REST de um sistema bancário simulado, contribuindo para que as funcionalidades estejam de acordo com os requisitos definidos.
 
 ## Stack Utilizada
 
